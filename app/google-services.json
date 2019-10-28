@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784109663644",
+    "firebase_url": "https://anjunadeep-1ea81.firebaseio.com",
+    "project_id": "anjunadeep-1ea81",
+    "storage_bucket": "anjunadeep-1ea81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784109663644:android:7c52aa04beac4365070459",
+        "android_client_info": {
+          "package_name": "com.example.anjunadeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784109663644-4897n64uchuqg7cbv2pm2naj4iqvl0fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anjunadeep",
+            "certificate_hash": "7740882232facddeb986f031d038ce5e626479fc"
+          }
+        },
+        {
+          "client_id": "784109663644-k974hvkqj5g9to7mu13q2sq5f94iho3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2dKHAyX2TG1StMD-ZYx3HELjoBy82KzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784109663644-k974hvkqj5g9to7mu13q2sq5f94iho3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
